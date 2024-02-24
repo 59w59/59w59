@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, sou um jovem de 15 anos que estuda programação desde dos 13/14 e cada vez que for aprendendo mais vou postar mais scripts</p>
+<p align="left">Sou um jovem de 15 anos que estuda programação desde dos 13/14 e cada vez que for aprendendo mais vou postar mais scripts</p>
 
 ###
 
