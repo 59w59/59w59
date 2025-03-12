@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um jovem👍🏻</p>
+<p align="left">Desenvolvedor Web</p>
 
 ###
 
