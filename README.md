@@ -58,7 +58,7 @@ This chart shows my estimated proficiency across my core technologies:
 ```
 
 ## Connect
-- 📧 59w59@example.com
-- 🌐 [Portfolio](#)
+- 📧 luismiguel70415@gmail.com
+- 🌐 [Portfolio](https://luisdev.fun/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00b71f&height=120&section=footer"/>
