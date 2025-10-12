@@ -18,43 +18,6 @@
 ## Proficiency Chart
 This chart shows my estimated proficiency across my core technologies:
 
-chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["PHP", "JavaScript", "HTML", "CSS", "Bootstrap", "Python", "Cloudflare"],
-    "datasets": [{
-      "label": "Proficiency (%)",
-      "data": [80, 75, 90, 85, 70, 65, 60],
-      "backgroundColor": ["#00b71f", "#1df743", "#00b71f", "#1df743", "#00b71f", "#1df743", "#00b71f"],
-      "borderColor": ["#ffffff", "#ffffff", "#ffffff", "#ffffff", "#ffffff", "#ffffff", "#ffffff"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "max": 100,
-        "title": {
-          "display": true,
-          "text": "Proficiency (%)"
-        }
-      },
-      "x": {
-        "title": {
-          "display": true,
-          "text": "Technology"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": false
-      }
-    }
-  }
-}
 
 ## Connect
 - 📧 luismiguel70415@gmail.com
