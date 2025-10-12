@@ -18,7 +18,7 @@
 ## Proficiency Chart
 This chart shows my estimated proficiency across my core technologies:
 
-```chartjs
+chartjs
 {
   "type": "bar",
   "data": {
@@ -55,7 +55,6 @@ This chart shows my estimated proficiency across my core technologies:
     }
   }
 }
-```
 
 ## Connect
 - 📧 luismiguel70415@gmail.com
