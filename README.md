@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1DF743&center=true&vCenter=true&width=1000&lines=59w59+-+Full-Stack+Developer;Hi!+I'm+Luis+Miguel;a.k.a+59w59;PHP+%26+Python+Developer;Crafting+clean+code+front+to+back" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1DF743&center=true&vCenter=true&width=1000&lines=59w59+-+Full-Stack+Developer;Hi!+I'm+Luis;a.k.a+59w59;PHP+%26+Python+Developer;Crafting+clean+code+front+to+back" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Luis Miguel**, a Full-Stack Web Developer focused on building clean, modern, and highly functional digital experiences. I handle everything from pixel-perfect interfaces to robust server-side logic. 
+I'm **Luis**, a Full-Stack Web Developer focused on building clean, modern, and highly functional digital experiences. I handle everything from pixel-perfect interfaces to robust server-side logic. 
 
 - 💻 Building responsive front-ends with **Bootstrap** and **JavaScript**
 - ⚙️ Crafting scalable back-ends with **PHP** and **Python**
@@ -47,9 +47,5 @@ I'm constantly building and experimenting. Here are a few things I've been worki
 
 ---
 
-## 📬 Connect With Me
-
-- 📧 **Email:** luismiguel70415@gmail.com
-- 🌐 **Portfolio:** [59w59 Portfolio](https://luisdev.fun/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00b71f&height=120&section=footer"/>
